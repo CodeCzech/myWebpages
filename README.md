@@ -1,4 +1,4 @@
-# dawn-janacek
+# myWebpages
 
 ## Photography Section
 
