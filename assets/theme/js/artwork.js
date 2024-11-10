@@ -16,6 +16,7 @@ function populateArtwork() {
     if (checkImage(photoFullPath)) {
       var img = document.createElement("img");
       img.src = photoFullPath;
+      img.loading = "lazy";
       //console.log("doing something with" + src);
       img.onclick = (event) => {
         console.log("opening art piece")
