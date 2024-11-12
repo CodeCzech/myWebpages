@@ -112,6 +112,14 @@ h6 {
     z-index: 1;
 }
 
+div.my-left-align {
+	left: -63% !important;
+}
+
+div.my-right-align {
+	right: -63% !important;
+}
+
 .container-xs {
     padding-right: 15px;
     padding-left: 15px;
